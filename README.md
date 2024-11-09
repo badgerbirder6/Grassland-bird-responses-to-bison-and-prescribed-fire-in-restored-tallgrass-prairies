@@ -7,3 +7,7 @@ Descriptions of individual datasets are below:
 bird.point.count.distance.data.csv
 
 --This file contains raw bird point count data. Each row pertains to an individual bird during a specific point count. Data is organized to be used in program Distance in R.
+
+veg.data.csv
+
+--This file contains raw vegetation structure data for each point count location. Vegetation structure was surveyed three times per year.
