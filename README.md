@@ -1,4 +1,4 @@
-This repository contains data associated with the article titled "Grassland bird responses to bison and prescribed fire in restored tallgrass prairies" in the Journal of Wildlife Management"
+This repository contains data associated with the article titled "Grassland bird responses to bison and prescribed fire in restored tallgrass prairies" in the Journal of Wildlife Management
 
 Any questions pertaining to these data can be sent to antoniobdelvalle@gmail.com
 
